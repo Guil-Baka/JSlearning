@@ -1,3 +1,13 @@
+.body-style {
+  background-color: #2C3333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-size: 20px;
+  color: white;
+}
+
 .outlined-button {
   padding: 10px 20px;
   border: 2px solid #000;
