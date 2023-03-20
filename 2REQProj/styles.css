@@ -1,0 +1,12 @@
+.topbar-style {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    font-size: 1.5em;
+    font-weight: bold;
+    min-height: 5px;
+    min-width: 1000px;
+    /* padding-top: 1rem; */
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
